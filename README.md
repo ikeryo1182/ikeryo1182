@@ -11,7 +11,7 @@
 
 ## Blog Posts
 <!-- BLOGPOSTS:START -->
+- [yarn と npm の栄枯盛衰](https://blog.ikeryo1182.com/yarn-and-npm/)
 - [夏と花火と私の技術選定](https://blog.ikeryo1182.com/technology-selection/)
 - [Berry(Yarn)とPlug'n'Play](https://blog.ikeryo1182.com/yarn-berry/)
-- [JavaScript のモジュールを理解する](https://blog.ikeryo1182.com/javascript-modules/)
 <!-- BLOGPOSTS:END -->
