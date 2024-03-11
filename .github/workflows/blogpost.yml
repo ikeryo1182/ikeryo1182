@@ -13,7 +13,7 @@ jobs:
         uses: kohrongying/readme-the-rss@master
         with:
           feed_url: https://www.pr1v4t3.io/feed
-          count: 3
+          count: 5
       - name: Commit file changes
         run: |
             git config --global user.name 'ikeryo1182'
