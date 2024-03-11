@@ -11,7 +11,9 @@
 
 ## Blog Posts
 <!-- BLOGPOSTS:START -->
-- [yarn と npm の栄枯盛衰](https://blog.ikeryo1182.com/yarn-and-npm/)
-- [夏と花火と私の技術選定](https://blog.ikeryo1182.com/technology-selection/)
-- [Berry(Yarn)とPlug'n'Play](https://blog.ikeryo1182.com/yarn-berry/)
+- [RaspberryPi向けのクロスコンパイラ環境を作る](https://pr1v4t3.io/cross-compile)
+- [エンジニアからマネジメント、あるいは機械と人間の懸隔](https://pr1v4t3.io/engineer-to-management)
+- [ES2024 と Stage 3 propsals](https://pr1v4t3.io/es2024-stage3-proposals)
+- [フロントエンドとヘッドレス](https://pr1v4t3.io/headless)
+- [2019年と2020年の話](https://pr1v4t3.io/hello-2020)
 <!-- BLOGPOSTS:END -->
